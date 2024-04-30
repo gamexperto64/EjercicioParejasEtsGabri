@@ -1,0 +1,14 @@
+C:\Users\diego\source\repos\ProyectoParejasETS\ProyectoParejasETS\bin\Debug\net8.0\ProyectoParejasETS.exe
+C:\Users\diego\source\repos\ProyectoParejasETS\ProyectoParejasETS\bin\Debug\net8.0\ProyectoParejasETS.deps.json
+C:\Users\diego\source\repos\ProyectoParejasETS\ProyectoParejasETS\bin\Debug\net8.0\ProyectoParejasETS.runtimeconfig.json
+C:\Users\diego\source\repos\ProyectoParejasETS\ProyectoParejasETS\bin\Debug\net8.0\ProyectoParejasETS.dll
+C:\Users\diego\source\repos\ProyectoParejasETS\ProyectoParejasETS\bin\Debug\net8.0\ProyectoParejasETS.pdb
+C:\Users\diego\source\repos\ProyectoParejasETS\ProyectoParejasETS\obj\Debug\net8.0\ProyectoParejasETS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diego\source\repos\ProyectoParejasETS\ProyectoParejasETS\obj\Debug\net8.0\ProyectoParejasETS.AssemblyInfoInputs.cache
+C:\Users\diego\source\repos\ProyectoParejasETS\ProyectoParejasETS\obj\Debug\net8.0\ProyectoParejasETS.AssemblyInfo.cs
+C:\Users\diego\source\repos\ProyectoParejasETS\ProyectoParejasETS\obj\Debug\net8.0\ProyectoParejasETS.csproj.CoreCompileInputs.cache
+C:\Users\diego\source\repos\ProyectoParejasETS\ProyectoParejasETS\obj\Debug\net8.0\ProyectoParejasETS.dll
+C:\Users\diego\source\repos\ProyectoParejasETS\ProyectoParejasETS\obj\Debug\net8.0\refint\ProyectoParejasETS.dll
+C:\Users\diego\source\repos\ProyectoParejasETS\ProyectoParejasETS\obj\Debug\net8.0\ProyectoParejasETS.pdb
+C:\Users\diego\source\repos\ProyectoParejasETS\ProyectoParejasETS\obj\Debug\net8.0\ProyectoParejasETS.genruntimeconfig.cache
+C:\Users\diego\source\repos\ProyectoParejasETS\ProyectoParejasETS\obj\Debug\net8.0\ref\ProyectoParejasETS.dll
